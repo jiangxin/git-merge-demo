@@ -11,7 +11,7 @@ func (v Next) Symbol() string {
 }
 
 func (v Next) Count() int {
-	return 3
+	return 4
 }
 
 func init() {
