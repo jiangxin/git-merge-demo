@@ -12,7 +12,7 @@ func (Topic_1_1) Symbol() string {
 }
 
 func (Topic_1_1) Count() int {
-	return 1
+	return 2
 }
 
 func init() {
