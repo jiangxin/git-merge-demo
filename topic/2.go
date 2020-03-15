@@ -11,7 +11,7 @@ func (v Topic_2) Symbol() string {
 }
 
 func (v Topic_2) Count() int {
-	return 1
+	return 2
 }
 
 func init() {
