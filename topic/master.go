@@ -11,7 +11,7 @@ func (v Master) Symbol() string {
 }
 
 func (v Master) Count() int {
-	return 3
+	return 4
 }
 
 func init() {
